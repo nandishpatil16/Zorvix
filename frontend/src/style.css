@@ -1,0 +1,18 @@
+body {
+  margin:0;
+  font-family: Arial;
+  background:#f5f5f5;
+}
+.home {
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+button {
+  padding:10px 20px;
+  border:none;
+  background:black;
+  color:white;
+}
